@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"module": "ESNext",
+		"moduleResolution": "Node",
+		"allowJs": true,
+		"sourceMap": true,
+		"target": "ES6",
+		"strict": true,
+		"allowSyntheticDefaultImports": true,
+		"lib": [
+			"DOM",
+			"ESNext"
+		]
+	}
+}
